@@ -1,0 +1,111 @@
+Sr No,Question Body,Language,Number Of Alternatives,QTYPE,Client Id,Alternative1,Alternative2,Alternative3,Alternative4,Alternative5
+1,How satisfied are you overall with online examination?,ENGLISH,5,SU,1,Very Satisfied,Somewhat Satisfied,Neutral,Somewhat Dissatisfied,Dissatisfied
+2,How satisfied were you with the support staff at test center?,ENGLISH,5,SU,2,Very Satisfied,Somewhat Satisfied,Neutral,Somewhat Dissatisfied,Dissatisfied
+3,How comfortable were you with the look and feel of exams screen?,ENGLISH,5,SU,3,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+4,How comfortable were you with navigating between questions?,ENGLISH,5,SU,4,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+5,How comfortable were you using keyboard for Subjective question?,ENGLISH,5,SU,5,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+6,How comfortable were you using Scientific Calculator?,ENGLISH,5,SU,6,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+7,How comfortable were you switching between languages for each question?,ENGLISH,5,SU,7,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+8,How much helpful were the test Instructions?,ENGLISH,5,SU,8,Very Helpful,Helpful,Neutral,Somewhat Helpful,Not Helfpul
+9,How much helpful were the legend on the screen at left hand top panel ?,ENGLISH,5,SU,9,Very Helpful,Helpful,Neutral,Somewhat Helpful,Not Helfpul
+10,Please rate your overall experience of the attempting online examination,ENGLISH,5,SU,10,Excellent,Better,Average,Good,Bad
+11,How satisfied are you overall with online examination?,HINDI,5,SU,11,Very Satisfied,Somewhat Satisfied,Neutral,Somewhat Dissatisfied,Dissatisfied
+12,How satisfied were you with the support staff at test center?,HINDI,5,SU,12,Very Satisfied,Somewhat Satisfied,Neutral,Somewhat Dissatisfied,Dissatisfied
+13,How comfortable were you with the look and feel of exams screen?,HINDI,5,SU,13,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+14,How comfortable were you with navigating between questions?,HINDI,5,SU,14,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+15,How comfortable were you using keyboard for Subjective question?,HINDI,5,SU,15,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+16,How comfortable were you using Scientific Calculator?,HINDI,5,SU,16,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+17,How comfortable were you switching between languages for each question?,HINDI,5,SU,17,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+18,How much helpful were the test Instructions?,HINDI,5,SU,18,Very Helpful,Helpful,Neutral,Somewhat Helpful,Not Helfpul
+19,How much helpful were the legend on the screen at left hand top panel ?,HINDI,5,SU,19,Very Helpful,Helpful,Neutral,Somewhat Helpful,Not Helfpul
+20,Please rate your overall experience of the attempting online examination,HINDI,5,SU,20,Excellent,Better,Average,Good,Bad
+21,How satisfied are you overall with online examination?,GUJARATI,5,SU,21,Very Satisfied,Somewhat Satisfied,Neutral,Somewhat Dissatisfied,Dissatisfied
+22,How satisfied were you with the support staff at test center?,GUJARATI,5,SU,22,Very Satisfied,Somewhat Satisfied,Neutral,Somewhat Dissatisfied,Dissatisfied
+23,How comfortable were you with the look and feel of exams screen?,GUJARATI,5,SU,23,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+24,How comfortable were you with navigating between questions?,GUJARATI,5,SU,24,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+25,How comfortable were you using keyboard for Subjective question?,GUJARATI,5,SU,25,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+26,How comfortable were you using Scientific Calculator?,GUJARATI,5,SU,26,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+27,How comfortable were you switching between languages for each question?,GUJARATI,5,SU,27,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+28,How much helpful were the test Instructions?,GUJARATI,5,SU,28,Very Helpful,Helpful,Neutral,Somewhat Helpful,Not Helfpul
+29,How much helpful were the legend on the screen at left hand top panel ?,GUJARATI,5,SU,29,Very Helpful,Helpful,Neutral,Somewhat Helpful,Not Helfpul
+30,Please rate your overall experience of the attempting online examination,GUJARATI,5,SU,30,Excellent,Better,Average,Good,Bad
+31,How satisfied are you overall with online examination?,MARATHI,5,SU,31,Very Satisfied,Somewhat Satisfied,Neutral,Somewhat Dissatisfied,Dissatisfied
+32,How satisfied were you with the support staff at test center?,MARATHI,5,SU,32,Very Satisfied,Somewhat Satisfied,Neutral,Somewhat Dissatisfied,Dissatisfied
+33,How comfortable were you with the look and feel of exams screen?,MARATHI,5,SU,33,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+34,How comfortable were you with navigating between questions?,MARATHI,5,SU,34,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+35,How comfortable were you using keyboard for Subjective question?,MARATHI,5,SU,35,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+36,How comfortable were you using Scientific Calculator?,MARATHI,5,SU,36,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+37,How comfortable were you switching between languages for each question?,MARATHI,5,SU,37,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+38,How much helpful were the test Instructions?,MARATHI,5,SU,38,Very Helpful,Helpful,Neutral,Somewhat Helpful,Not Helfpul
+39,How much helpful were the legend on the screen at left hand top panel ?,MARATHI,5,SU,39,Very Helpful,Helpful,Neutral,Somewhat Helpful,Not Helfpul
+40,Please rate your overall experience of the attempting online examination,MARATHI,5,SU,40,Excellent,Better,Average,Good,Bad
+41,How satisfied are you overall with online examination?,BENGALI,5,SU,41,Very Satisfied,Somewhat Satisfied,Neutral,Somewhat Dissatisfied,Dissatisfied
+42,How satisfied were you with the support staff at test center?,BENGALI,5,SU,42,Very Satisfied,Somewhat Satisfied,Neutral,Somewhat Dissatisfied,Dissatisfied
+43,How comfortable were you with the look and feel of exams screen?,BENGALI,5,SU,43,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+44,How comfortable were you with navigating between questions?,BENGALI,5,SU,44,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+45,How comfortable were you using keyboard for Subjective question?,BENGALI,5,SU,45,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+46,How comfortable were you using Scientific Calculator?,BENGALI,5,SU,46,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+47,How comfortable were you switching between languages for each question?,BENGALI,5,SU,47,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+48,How much helpful were the test Instructions?,BENGALI,5,SU,48,Very Helpful,Helpful,Neutral,Somewhat Helpful,Not Helfpul
+49,How much helpful were the legend on the screen at left hand top panel ?,BENGALI,5,SU,49,Very Helpful,Helpful,Neutral,Somewhat Helpful,Not Helfpul
+50,Please rate your overall experience of the attempting online examination,BENGALI,5,SU,50,Excellent,Better,Average,Good,Bad
+51,How satisfied are you overall with online examination?,PUNJABI,5,SU,51,Very Satisfied,Somewhat Satisfied,Neutral,Somewhat Dissatisfied,Dissatisfied
+52,How satisfied were you with the support staff at test center?,PUNJABI,5,SU,52,Very Satisfied,Somewhat Satisfied,Neutral,Somewhat Dissatisfied,Dissatisfied
+53,How comfortable were you with the look and feel of exams screen?,PUNJABI,5,SU,53,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+54,How comfortable were you with navigating between questions?,PUNJABI,5,SU,54,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+55,How comfortable were you using keyboard for Subjective question?,PUNJABI,5,SU,55,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+56,How comfortable were you using Scientific Calculator?,PUNJABI,5,SU,56,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+57,How comfortable were you switching between languages for each question?,PUNJABI,5,SU,57,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+58,How much helpful were the test Instructions?,PUNJABI,5,SU,58,Very Helpful,Helpful,Neutral,Somewhat Helpful,Not Helfpul
+59,How much helpful were the legend on the screen at left hand top panel ?,PUNJABI,5,SU,59,Very Helpful,Helpful,Neutral,Somewhat Helpful,Not Helfpul
+60,Please rate your overall experience of the attempting online examination,PUNJABI,5,SU,60,Excellent,Better,Average,Good,Bad
+61,How satisfied are you overall with online examination?,TELUGU,5,SU,61,Very Satisfied,Somewhat Satisfied,Neutral,Somewhat Dissatisfied,Dissatisfied
+62,How satisfied were you with the support staff at test center?,TELUGU,5,SU,62,Very Satisfied,Somewhat Satisfied,Neutral,Somewhat Dissatisfied,Dissatisfied
+63,How comfortable were you with the look and feel of exams screen?,TELUGU,5,SU,63,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+64,How comfortable were you with navigating between questions?,TELUGU,5,SU,64,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+65,How comfortable were you using keyboard for Subjective question?,TELUGU,5,SU,65,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+66,How comfortable were you using Scientific Calculator?,TELUGU,5,SU,66,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+67,How comfortable were you switching between languages for each question?,TELUGU,5,SU,67,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+68,How much helpful were the test Instructions?,TELUGU,5,SU,68,Very Helpful,Helpful,Neutral,Somewhat Helpful,Not Helfpul
+69,How much helpful were the legend on the screen at left hand top panel ?,TELUGU,5,SU,69,Very Helpful,Helpful,Neutral,Somewhat Helpful,Not Helfpul
+70,Please rate your overall experience of the attempting online examination,TELUGU,5,SU,70,Excellent,Better,Average,Good,Bad
+71,How satisfied are you overall with online examination?,TAMIL,5,SU,71,Very Satisfied,Somewhat Satisfied,Neutral,Somewhat Dissatisfied,Dissatisfied
+72,How satisfied were you with the support staff at test center?,TAMIL,5,SU,72,Very Satisfied,Somewhat Satisfied,Neutral,Somewhat Dissatisfied,Dissatisfied
+73,How comfortable were you with the look and feel of exams screen?,TAMIL,5,SU,73,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+74,How comfortable were you with navigating between questions?,TAMIL,5,SU,74,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+75,How comfortable were you using keyboard for Subjective question?,TAMIL,5,SU,75,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+76,How comfortable were you using Scientific Calculator?,TAMIL,5,SU,76,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+77,How comfortable were you switching between languages for each question?,TAMIL,5,SU,77,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+78,How much helpful were the test Instructions?,TAMIL,5,SU,78,Very Helpful,Helpful,Neutral,Somewhat Helpful,Not Helfpul
+79,How much helpful were the legend on the screen at left hand top panel ?,TAMIL,5,SU,79,Very Helpful,Helpful,Neutral,Somewhat Helpful,Not Helfpul
+80,Please rate your overall experience of the attempting online examination,TAMIL,5,SU,80,Excellent,Better,Average,Good,Bad
+81,How satisfied are you overall with online examination?,URDU,5,SU,81,Very Satisfied,Somewhat Satisfied,Neutral,Somewhat Dissatisfied,Dissatisfied
+82,How satisfied were you with the support staff at test center?,URDU,5,SU,82,Very Satisfied,Somewhat Satisfied,Neutral,Somewhat Dissatisfied,Dissatisfied
+83,How comfortable were you with the look and feel of exams screen?,URDU,5,SU,83,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+84,How comfortable were you with navigating between questions?,URDU,5,SU,84,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+85,How comfortable were you using keyboard for Subjective question?,URDU,5,SU,85,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+86,How comfortable were you using Scientific Calculator?,URDU,5,SU,86,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+87,How comfortable were you switching between languages for each question?,URDU,5,SU,87,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+88,How much helpful were the test Instructions?,URDU,5,SU,88,Very Helpful,Helpful,Neutral,Somewhat Helpful,Not Helfpul
+89,How much helpful were the legend on the screen at left hand top panel ?,URDU,5,SU,89,Very Helpful,Helpful,Neutral,Somewhat Helpful,Not Helfpul
+90,Please rate your overall experience of the attempting online examination,URDU,5,SU,90,Excellent,Better,Average,Good,Bad
+91,How satisfied are you overall with online examination?,MALAYALAM,5,SU,91,Very Satisfied,Somewhat Satisfied,Neutral,Somewhat Dissatisfied,Dissatisfied
+92,How satisfied were you with the support staff at test center?,MALAYALAM,5,SU,92,Very Satisfied,Somewhat Satisfied,Neutral,Somewhat Dissatisfied,Dissatisfied
+93,How comfortable were you with the look and feel of exams screen?,MALAYALAM,5,SU,93,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+94,How comfortable were you with navigating between questions?,MALAYALAM,5,SU,94,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+95,How comfortable were you using keyboard for Subjective question?,MALAYALAM,5,SU,95,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+96,How comfortable were you using Scientific Calculator?,MALAYALAM,5,SU,96,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+97,How comfortable were you switching between languages for each question?,MALAYALAM,5,SU,97,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+98,How much helpful were the test Instructions?,MALAYALAM,5,SU,98,Very Helpful,Helpful,Neutral,Somewhat Helpful,Not Helfpul
+99,How much helpful were the legend on the screen at left hand top panel ?,MALAYALAM,5,SU,99,Very Helpful,Helpful,Neutral,Somewhat Helpful,Not Helfpul
+100,Please rate your overall experience of the attempting online examination,MALAYALAM,5,SU,100,Excellent,Better,Average,Good,Bad
+101,How satisfied are you overall with online examination?,KANNADA,5,SU,101,Very Satisfied,Somewhat Satisfied,Neutral,Somewhat Dissatisfied,Dissatisfied
+102,How satisfied were you with the support staff at test center?,KANNADA,5,SU,102,Very Satisfied,Somewhat Satisfied,Neutral,Somewhat Dissatisfied,Dissatisfied
+103,How comfortable were you with the look and feel of exams screen?,KANNADA,5,SU,103,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+104,How comfortable were you with navigating between questions?,KANNADA,5,SU,104,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+105,How comfortable were you using keyboard for Subjective question?,KANNADA,5,SU,105,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+106,How comfortable were you using Scientific Calculator?,KANNADA,5,SU,106,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+107,How comfortable were you switching between languages for each question?,KANNADA,5,SU,107,Very Comfortable,Comfortable,Neutral,Somewhat Uncomfortable,Uncomfortable
+108,How much helpful were the test Instructions?,KANNADA,5,SU,108,Very Helpful,Helpful,Neutral,Somewhat Helpful,Not Helfpul
+109,How much helpful were the legend on the screen at left hand top panel ?,KANNADA,5,SU,109,Very Helpful,Helpful,Neutral,Somewhat Helpful,Not Helfpul
+110,Please rate your overall experience of the attempting online examination,KANNADA,5,SU,110,Excellent,Better,Average,Good,Bad
