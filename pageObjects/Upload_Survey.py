@@ -1,3 +1,4 @@
+import time
 
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -17,9 +18,13 @@ class survey:
         self.driver = setup # Pass the driver from test cases
 
     #Methods
+    def clk_upload_management_button(self):
+        element = WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable((By.LINK_TEXT, self.btn_UploadManagement_LINK_TEXT)))
+        element.click()
 
     def clk_upload_survey_button(self):
-        element = WebDriverWait(self.driver, 10).until(
+
+        element = WebDriverWait(self.driver, 20).until(
             EC.element_to_be_clickable((By.LINK_TEXT, self.btn_upload_survey_xpath)))
         element.click()
 
@@ -32,7 +37,7 @@ class survey:
         file_input.send_keys(file_path)
 
     def clk_upload_btn(self):
-        element = WebDriverWait(self.driver, 10).until(
+        element = WebDriverWait(self.driver, 20).until(
             EC.element_to_be_clickable((By.LINK_TEXT, self.btn_upload_xpath)))
         element.click()
 
